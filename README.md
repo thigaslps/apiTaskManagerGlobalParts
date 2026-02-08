@@ -21,7 +21,7 @@ O objetivo é facilitar o controle de atividades e o acompanhamento do fluxo de 
 ## 🛠 Tecnologias Utilizadas
 
 - **Java 21**
-- **Spring Boot 3**
+- **Spring Boot 4.0.2**
 - **Spring Data JPA**
 - **MySQL**
 - **Maven**
