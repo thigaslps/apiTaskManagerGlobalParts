@@ -129,11 +129,9 @@ Resposta de Sucesso (200 OK):
 {
   "message": "Tarefa editada com sucesso"
 }
-⃣ Mudar o Status de uma Tarefa
+Mudar o Status de uma Tarefa
 Avança automaticamente o status da tarefa no fluxo:
 
-nginx
-Copy code
 TODO → DOING → DONE
 Método: PUT
 
@@ -148,7 +146,7 @@ Resposta de Sucesso (200 OK):
 {
   "message": "Status atualizado com sucesso"
 }
-5️⃣ Excluir uma Tarefa
+Excluir uma Tarefa
 Remove definitivamente uma tarefa do banco de dados.
 
 Método: DELETE
@@ -161,8 +159,6 @@ id (Long) – ID da tarefa
 
 Resposta de Sucesso (200 OK):
 
-json
-Copy code
 {
   "message": "Tarefa excluída com sucesso"
 }
@@ -191,7 +187,7 @@ MEDIUM
 
 HIGH
 
-▶️ Como Executar a Aplicação
+▶ Como Executar a Aplicação
 Clone o repositório.
 
 Configure as variáveis de ambiente (ou utilize os valores padrão).
